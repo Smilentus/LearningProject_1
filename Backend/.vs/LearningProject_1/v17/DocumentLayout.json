@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Web\\LearningProject_1\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4431653E-1AB8-46D7-8D9E-57EADECB7F09}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\projects\\web\\learningproject_1\\backend\\bookstore.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431653E-1AB8-46D7-8D9E-57EADECB7F09}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4431653E-1AB8-46D7-8D9E-57EADECB7F09}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\projects\\web\\learningproject_1\\backend\\bookstore.dataaccess\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431653E-1AB8-46D7-8D9E-57EADECB7F09}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4431653E-1AB8-46D7-8D9E-57EADECB7F09}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\projects\\web\\learningproject_1\\backend\\bookstore.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431653E-1AB8-46D7-8D9E-57EADECB7F09}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C795BD-4286-4FF5-B583-DF50D6C34FAC}|BookStore.Core\\BookStore.Core.csproj|d:\\projects\\web\\learningproject_1\\backend\\bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C795BD-4286-4FF5-B583-DF50D6C34FAC}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47277B70-3282-408D-85E0-F62116F1C441}|LearningProject_1\\LearningProject_1.csproj|d:\\projects\\web\\learningproject_1\\backend\\learningproject_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47277B70-3282-408D-85E0-F62116F1C441}|LearningProject_1\\LearningProject_1.csproj|solutionrelative:learningproject_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\LearningProject_1\\Backend\\LearningProject_1\\Program.cs",
+              "RelativeDocumentMoniker": "LearningProject_1\\Program.cs",
+              "ToolTip": "D:\\Projects\\Web\\LearningProject_1\\Backend\\LearningProject_1\\Program.cs",
+              "RelativeToolTip": "LearningProject_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:52:28.099Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\LearningProject_1\\Backend\\BookStore.DataAccess\\Entities\\BookEntity.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Entities\\BookEntity.cs",
+              "ToolTip": "D:\\Projects\\Web\\LearningProject_1\\Backend\\BookStore.DataAccess\\Entities\\BookEntity.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Entities\\BookEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:21:28.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\LearningProject_1\\Backend\\BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "ToolTip": "D:\\Projects\\Web\\LearningProject_1\\Backend\\BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:21:26.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\LearningProject_1\\Backend\\BookStore.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Models\\Book.cs",
+              "ToolTip": "D:\\Projects\\Web\\LearningProject_1\\Backend\\BookStore.Core\\Models\\Book.cs",
+              "RelativeToolTip": "BookStore.Core\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:21:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\LearningProject_1\\Backend\\BookStore.DataAccess\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\BookStoreDbContext.cs",
+              "ToolTip": "D:\\Projects\\Web\\LearningProject_1\\Backend\\BookStore.DataAccess\\BookStoreDbContext.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\BookStoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:20:36.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

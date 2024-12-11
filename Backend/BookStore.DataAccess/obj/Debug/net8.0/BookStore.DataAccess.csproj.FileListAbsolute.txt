@@ -1,0 +1,51 @@
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfo.cs
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.deps.json
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.runtimeconfig.json
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.dll
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.pdb
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Core.dll
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Core.pdb
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\BookStor.8FF6026C.Up2Date
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.dll
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\refint\BookStore.DataAccess.dll
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.pdb
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.genruntimeconfig.cache
+D:\Projects\C# .NET Core\LearningProject_1\BookStore.DataAccess\obj\Debug\net8.0\ref\BookStore.DataAccess.dll
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.deps.json
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.runtimeconfig.json
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.dll
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.pdb
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Core.dll
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Core.pdb
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfo.cs
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStor.8FF6026C.Up2Date
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.dll
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\refint\BookStore.DataAccess.dll
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.pdb
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.genruntimeconfig.cache
+D:\Projects\C# .NET Core\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\ref\BookStore.DataAccess.dll
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.deps.json
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.runtimeconfig.json
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.dll
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.pdb
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Core.dll
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Core.pdb
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfo.cs
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStor.8FF6026C.Up2Date
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.dll
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\refint\BookStore.DataAccess.dll
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.pdb
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.genruntimeconfig.cache
+D:\Projects\Web\LearningProject_1\Backend\BookStore.DataAccess\obj\Debug\net8.0\ref\BookStore.DataAccess.dll
